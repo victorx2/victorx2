@@ -1,54 +1,119 @@
-# Hi there, I'm Víctor Carrillo 👋
-### Full Stack Software Engineer | Web Development, Database Architecture & Automation
+ <div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vikprogramador/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://victorcarrillox2.com"><img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
-  <a href="https://x.com/Vick_111111"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=240&section=header&text=V%C3%ADctor%20Carrillo&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=15&descAlignY=56&animation=fadeIn" width="100%" />
 
----
+<a href="https://victorcarrillox2.com">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit%20Website-0F172A?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/vikprogramador/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/Vick_111111">
+  <img src="https://img.shields.io/badge/Follow%20me-on%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
-## 👨‍💻 About Me
+<br/>
 
-- 🚀 **Role:** Full Stack Software Engineer specializing in modern web applications, scalable database architectures, and automated workflows.
-- 🎓 **Education:** Information Technology Engineer (*Ingeniero Informático*).
-- 📍 **Location:** Cagua, Aragua, Venezuela.
-- 💻 **Main Stack:** Next.js, React, TypeScript, Python, PostgreSQL, Supabase, Docker, Tailwind CSS.
-- 🌐 **Portfolio Site:** [victorcarrillox2.com](https://victorcarrillox2.com)
+**I turn complex problems into practical software solutions.**
 
----
+*Building modern web experiences, reliable backend systems, and intelligent automations.*
 
-## 🛠️ Tech Stack & Tools
-
-### Frontend & Web
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Backend & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-121212?style=flat-square&logo=codefactor&logoColor=white)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 👋 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorx2&show_icons=true&theme=dark&count_private=true" alt="Victor's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorx2&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+I'm **Víctor Carrillo**, an Information Technology Engineer passionate about building software that solves real problems.
+
+I work across the stack, combining clean interfaces, well-structured databases, backend architecture, and automation to create applications that are useful, maintainable, and ready to evolve.
+
+* ⚡ **What I build:** Full-stack applications, APIs, database-driven platforms, and automation workflows.
+* 🧠 **How I think:** Performance, maintainability, security, and user experience are part of the same engineering problem.
+* 🛠️ **My approach:** Understand the problem, design the architecture, build the solution, and keep improving it.
+* 🌎 **Based in:** Cagua, Aragua, Venezuela.
+* 🎯 **Current goal:** Building better software and turning ideas into products with real value.
+
+> Great software isn't just code that works. It's a solution that makes someone's work easier.
+
+## 🧰 My Engineering Toolkit
+
+<div align="center">
+
+### Frontend & User Experience
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" />
+
+### Backend & Data Architecture
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,supabase,sqlite&theme=dark" />
+
+### Infrastructure & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,vscode&theme=dark" />
+
+</div>
+
+## 🚀 Selected Projects
+
+### ⚙️ NovaForge NEX
+
+**Modern industrial web experiences**
+
+A React-based B2B industrial portal concept focused on presenting industrial products and services through a modern, responsive interface.
+
+* 🎨 Focus: User experience and responsive design.
+* ⚡ Stack: React · Tailwind CSS · Vercel.
+* 🔗 **[Explore the project](https://victorcarrillox2.com)**
+
+### 🔎 RockAuto Web Scraper
+
+**Automotive parts indexing and equivalence search**
+
+A project focused on extracting, organizing, and searching automotive parts information to make product discovery and cross-referencing more efficient.
+
+* 🐍 Focus: Web automation, data extraction, and structured search.
+* 🗄️ Stack: Python · Playwright · SQLite.
+* 💻 **[Explore my GitHub repositories](https://github.com/victorx2?tab=repositories)**
+
+---
+
+## 📊 My GitHub at a Glance
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=victorx2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorx2&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=victorx2&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Let's Build Something Meaningful
+
+I'm always interested in connecting with people who value technology, creative problem-solving, and well-engineered products.
+
+Whether it's a new project, a technical challenge, or an opportunity to collaborate, let's talk.
+
+<div align="center">
+
+<a href="https://victorcarrillox2.com">
+  <img src="https://img.shields.io/badge/Explore%20my%20work-Visit%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/vikprogramador/">
+  <img src="https://img.shields.io/badge/Connect%20with%20me-on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Turning ideas into software. Turning software into impact.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=110&section=footer" width="100%" />
+
+</div>
