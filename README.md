@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=240&section=header&text=V%C3%ADctor%20Carrillo&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=15&descAlignY=56&animation=fadeIn" width="100%" />
 
@@ -28,11 +28,11 @@ I'm **Víctor Carrillo**, an Information Technology Engineer passionate about bu
 
 I work across the stack, combining clean interfaces, well-structured databases, backend architecture, and automation to create applications that are useful, maintainable, and ready to evolve.
 
-* ⚡ **What I build:** Full-stack applications, APIs, database-driven platforms, and automation workflows.
-* 🧠 **How I think:** Performance, maintainability, security, and user experience are part of the same engineering problem.
-* 🛠️ **My approach:** Understand the problem, design the architecture, build the solution, and keep improving it.
-* 🌎 **Based in:** Cagua, Aragua, Venezuela.
-* 🎯 **Current goal:** Building better software and turning ideas into products with real value.
+- ⚡ **What I build:** Full-stack applications, APIs, database-driven platforms, and automation workflows.
+- 🧠 **How I think:** Performance, maintainability, security, and user experience are part of the same engineering problem.
+- 🛠️ **My approach:** Understand the problem, design the architecture, build the solution, and keep improving it.
+- 🌎 **Based in:** Cagua, Aragua, Venezuela.
+- 🎯 **Current goal:** Building better software and turning ideas into products with real value.
 
 > Great software isn't just code that works. It's a solution that makes someone's work easier.
 
@@ -46,7 +46,7 @@ I work across the stack, combining clean interfaces, well-structured databases, 
 
 ### Backend & Data Architecture
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,supabase,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,laravel,postgres,supabase,sqlite&theme=dark" />
 
 ### Infrastructure & Developer Tools
 
@@ -56,25 +56,41 @@ I work across the stack, combining clean interfaces, well-structured databases, 
 
 ## 🚀 Selected Projects
 
-### ⚙️ NovaForge NEX
+### 🏭 Axones — Industrial MES/ERP System
+**Manufacturing execution & real-time production monitoring**
 
+A custom MES/ERP modular system designed for a flexible packaging plant, focusing on shop-floor digitalization, material traceability, and production flow optimization.
+
+- 📊 **Key Features:** Production monitoring (orders, downtime, waste), advanced inventory control, and technical specifications centralizing (microns, formulas).
+- ⚡ **Stack:** Laravel · React.js · REST API.
+- 💻 **[View experience on LinkedIn](https://www.linkedin.com/in/vikprogramador/)**
+
+### 📦 Plásticos La Dinastía — MES/ERP Control System
+**Plant production digital control & inventory traceability**
+
+Digitalized the factory floor across 7 extrusion lines, sealing processes, and raw material inventory with role-based permissions and automated operational alerts.
+
+- 🔒 **Key Features:** Production tracking, extrusion log gap detection, low-stock alerts, packing list printing, and JWT auth.
+- ⚡ **Stack:** FastAPI (Python) · React · TypeScript · PostgreSQL.
+- 💻 **[View experience on LinkedIn](https://www.linkedin.com/in/vikprogramador/)**
+
+### ⚙️ NovaForge NEX
 **Modern industrial web experiences**
 
 A React-based B2B industrial portal concept focused on presenting industrial products and services through a modern, responsive interface.
 
-* 🎨 Focus: User experience and responsive design.
-* ⚡ Stack: React · Tailwind CSS · Vercel.
-* 🔗 **[Explore the project](https://victorcarrillox2.com)**
+- 🎨 **Focus:** User experience and responsive design.
+- ⚡ **Stack:** React · Tailwind CSS · Vercel.
+- 🔗 **[Explore the project](https://victorcarrillox2.com)**
 
 ### 🔎 RockAuto Web Scraper
-
 **Automotive parts indexing and equivalence search**
 
 A project focused on extracting, organizing, and searching automotive parts information to make product discovery and cross-referencing more efficient.
 
-* 🐍 Focus: Web automation, data extraction, and structured search.
-* 🗄️ Stack: Python · Playwright · SQLite.
-* 💻 **[Explore my GitHub repositories](https://github.com/victorx2?tab=repositories)**
+- 🐍 **Focus:** Web automation, data extraction, and structured search.
+- 🗄️ **Stack:** Python · Playwright · SQLite.
+- 💻 **[Explore my GitHub repositories](https://github.com/victorx2?tab=repositories)**
 
 ---
 
